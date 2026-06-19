@@ -6,7 +6,7 @@
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ElChalateco/ElChalateco](https://github.com/ElChalateco/ElChalateco)<br>
+1. 🔱 Forked [ElChalateco/notas-markdown-fundamentos-javascript](https://github.com/ElChalateco/notas-markdown-fundamentos-javascript) from [platzi/notas-markdown-fundamentos-javascript](https://github.com/platzi/notas-markdown-fundamentos-javascript)<br>
 2. ⬆️ Pushed undefined commit(s) to [ElChalateco/ElChalateco](https://github.com/ElChalateco/ElChalateco)<br>
 3. ⬆️ Pushed undefined commit(s) to [ElChalateco/ElChalateco](https://github.com/ElChalateco/ElChalateco)<br>
 4. ⬆️ Pushed undefined commit(s) to [ElChalateco/ElChalateco](https://github.com/ElChalateco/ElChalateco)<br>
